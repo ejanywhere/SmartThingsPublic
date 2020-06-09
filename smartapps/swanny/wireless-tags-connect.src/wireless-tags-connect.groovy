@@ -19,8 +19,8 @@ definition(
     author: "swanny",
     description: "Wireless Tags connection",
     category: "Convenience",
-    iconUrl: "https://s3.amazonaws.com/smartapp-icons/Convenience/Cat-Convenience.png",
-    iconX2Url: "https://s3.amazonaws.com/smartapp-icons/Convenience/Cat-Convenience@2x.png",
+    iconUrl: "https://pbs.twimg.com/profile_images/442336287312195585/L1-m4V1C_400x400.png",
+    iconX2Url: "https://pbs.twimg.com/profile_images/442336287312195585/L1-m4V1C_400x400.png",
     oauth: true)
 
 
